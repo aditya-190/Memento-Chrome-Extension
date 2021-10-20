@@ -1,20 +1,26 @@
 <h1 align="center">Memento (Random Jokes) - Chrome Extension</h1>
 
 <p align="center">
-<img src="" width="441">
+<img width="441" alt="Memento" src="https://user-images.githubusercontent.com/63164037/138036569-cc0c963c-451d-4a78-8d2c-a2e36e36d508.png">
 </p>
 
 ## 📜 Description:
+Click to deliver a new joke!
+
+Studying, stressed, or are you simply bored.
+
+With the joke extension get 100 new jokes delivered to your thinking module with the simple click of a button. The jokes are updated every 24 hours so check back often.
 
 **Features:**
 - Copy To Clipboard added.
 - New random jokes everytime.
 - New UI enhancement done.
 
-### 🔗 API Used: URL
-https://icanhazdadjoke.com/slack
+## 🔗 API Used:
+URL: https://icanhazdadjoke.com/slack
 
 ## 🌎 Deployed Website:
+https://aditya-190.github.io/Memento-Chrome-Extension/
 
 ## 📽 Sample Demo:
 
@@ -29,7 +35,7 @@ https://icanhazdadjoke.com/slack
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
-- Take a look at the Existing [Issues](https://github.com/aditya-190/HERE/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/aditya-190/Memento-Chrome-Extension/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
