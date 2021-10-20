@@ -23,6 +23,8 @@ URL: https://icanhazdadjoke.com/slack
 https://aditya-190.github.io/Memento-Chrome-Extension/
 
 ## 📽 Sample Demo:
+https://user-images.githubusercontent.com/63164037/138037808-324d77e7-898d-4050-81b3-8fc9634f33e7.mov
+
 
 ## 🏗 Built With:
  - HTML5
