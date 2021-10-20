@@ -1,0 +1,82 @@
+body {
+    margin: 0 0;
+}
+
+.container {
+    width: 400px;
+    height: fit-content;
+    max-height: 600px;
+    padding: 16px;
+    overflow: auto;
+    border: 5px solid black;
+}
+
+#logo {
+    display: block;
+    margin: auto;
+    width: 150px;
+}
+
+#heading {
+    display: block;
+    text-align: center;
+    margin-top: 16px;
+    height: fit-content;
+    font-style: oblique;
+    font-family: 'IM Fell Double Pica', serif;
+    font-size: 32px;
+    color: #000000;
+}
+
+#startQuote {
+    float: left;
+    padding-left: 16px;
+    width: 30px;
+}
+
+#copyJoke {
+    float: right;
+    padding-right: 16px;
+    width: 20px;
+}
+
+#endQuote {
+    float: right;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    width: 30px;
+}
+
+#joke {
+    text-align: center;
+    padding: 32px;
+    clear: both;
+    font-style: oblique;
+    font-family: 'Poppins', serif;
+    font-size: 16px;
+    color: #000000;
+}
+
+.tooltip {
+    float: right;
+    position: relative;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    min-width: 140px;
+    background-color: #333;
+    margin-right: 8px;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    right: 100%;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}

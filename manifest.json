@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Memento - Random Jokes",
+  "description": "Do you need a smile on your boring day? Go Ahead",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "assets/logo.jpg",
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "128": "assets/logo.jpg"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
